@@ -309,6 +309,12 @@
          "id":9,
          "name":"wallTop",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
