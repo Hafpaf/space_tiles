@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":8,
  "infinite":false,
  "layers":[
@@ -30,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bunkerGarden.json#exitBunker"
+                 "value":"bunkerGarden.json#exitFromBunker"
                 }],
          "type":"tilelayer",
          "visible":true,
