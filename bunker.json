@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-spaces-north.json#start_labitat}"
+                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_labitat}"
                 }],
          "type":"tilelayer",
          "visible":true,
