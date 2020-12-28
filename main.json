@@ -16,6 +16,12 @@
          "id":7,
          "name":"collide_layer",
          "opacity":0.5,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":129,
@@ -618,6 +624,19 @@
          "name":"Labitat_Logo_Cleaned",
          "spacing":0,
          "tilecount":468,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":9,
+         "firstgid":4606,
+         "image":"images\/LabitatLogoClean.svg",
+         "imageheight":298,
+         "imagewidth":308,
+         "margin":0,
+         "name":"LabitatLogoClean",
+         "spacing":0,
+         "tilecount":81,
          "tileheight":32,
          "tilewidth":32
         }],
