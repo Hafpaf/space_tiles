@@ -33,6 +33,12 @@
          "id":10,
          "name":"visitBunker",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"FERuBXApIX2i4avqv4hXCdURBf53AkSVhRPUfsCBz3NT9m26m8"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":13,
@@ -68,24 +74,6 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_labitat}"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":13,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":8,
-         "id":11,
-         "name":"badge",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"FERuBXApIX2i4avqv4hXCdURBf53AkSVhRPUfsCBz3NT9m26m8"
                 }],
          "type":"tilelayer",
          "visible":true,
