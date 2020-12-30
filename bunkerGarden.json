@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bunker.json#bunker3Start"
+                 "value":"bunker.json#bunker3Entrance"
                 }],
          "type":"tilelayer",
          "visible":true,
