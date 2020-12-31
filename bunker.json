@@ -385,16 +385,6 @@
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":11,
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"DfPAWlcZLTTEgIUbflH4pi3OQUCQyHQKoVI4WSS6MLwhf4DEFA"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
