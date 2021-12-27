@@ -3,8 +3,7 @@
     {
      "export":
         {
-         "format":"json",
-         "target":"."
+         "format":"json"
         }
     },
  "height":28,
@@ -92,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_labitat}"
+                 "value":"world:\/\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -147,6 +146,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"shared_labitat"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -165,6 +169,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"shared_tronLab"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -427,7 +436,7 @@
         {
          "draworder":"topdown",
          "id":8,
-         "name":"floorLayer",
+         "name":"floorLayer1",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
@@ -583,7 +592,7 @@
  "nextobjectid":7,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -594,6 +603,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"RC3"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1195,6 +1210,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":46
 }
