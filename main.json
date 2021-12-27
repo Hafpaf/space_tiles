@@ -972,6 +972,12 @@
          "imagewidth":718,
          "margin":0,
          "name":"main",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"MuCCC (https:\/\/github.com\/muccc\/rc3test)"
+                }],
          "spacing":0,
          "tilecount":1298,
          "tileheight":32,
