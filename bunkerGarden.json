@@ -326,6 +326,17 @@
  "nextlayerid":28,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Labitat bunker garden"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"bunkerGarden"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,

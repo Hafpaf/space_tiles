@@ -54,6 +54,12 @@
                  "height":94.5,
                  "id":10,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"QrB1s4IA2ppRmcfAxFUsXDqiGv7ZowId0IjodByGl1sDjOZ6Wl"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -62,34 +68,6 @@
                  "y":65.5
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"QrB1s4IA2ppRmcfAxFUsXDqiGv7ZowId0IjodByGl1sDjOZ6Wl"
-                }],
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":57,
-         "name":"metaData",
-         "objects":[],
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"mapDescription",
-                 "type":"string",
-                 "value":"Labitat cellar"
-                }, 
-                {
-                 "name":"mapName",
-                 "type":"string",
-                 "value":"main"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -611,6 +589,17 @@
  "nextlayerid":58,
  "nextobjectid":12,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Labitat cellar"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"main"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,

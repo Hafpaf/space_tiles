@@ -7,7 +7,7 @@ The assembly map is created with [Tiled](https://www.mapeditor.org/) and with he
 
 ## Testing
 
-Hop onto the RC3 test servers: [https://test.visit.at.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/Hafpaf/space_tiles/master/main.json](https://test.visit.at.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/Hafpaf/space_tiles/master/main.json)
+Hop onto the RC3 test servers: [https://wa.tabascoeye.de/_/global/raw.githubusercontent.com/labitat/space_tiles/master/main.json](https://wa.tabascoeye.de/_/global/raw.githubusercontent.com/labitat/space_tiles/master/main.json)
 
 ## Screenshots
 
