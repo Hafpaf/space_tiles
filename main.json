@@ -744,6 +744,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"33_desk_brown_horizontal_wide_2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"RC3"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -795,6 +801,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"milkian (https:\/\/www.deviantart.com\/milkian)"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -941,6 +953,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"mc3tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"MuCCC (https:\/\/github.com\/muccc\/rc3test)"
+                }],
          "spacing":0,
          "tilecount":200,
          "tileheight":32,
@@ -1252,6 +1270,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"wa-tools",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"telegnom (https:\/\/github.com\/telegnom\/wa-tools)"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -1284,6 +1308,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rpg_maker_vx__modernrtp_tilec_by_painhurt_d3f7sm6",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"painhurt (https:\/\/www.deviantart.com\/painhurt\/art\/RPG-Maker-VX-ModernRTP-TileC-206956446)"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,

@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":11,
  "infinite":false,
  "layers":[
@@ -324,7 +317,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -335,6 +328,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"RC3"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -358,6 +357,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"02_stone_tile2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"RC3"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -371,6 +376,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"cija_32x32_expansion for Pipoya_CC0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"RC3"
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
@@ -384,6 +395,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"RC3"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -397,6 +414,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"RC3"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -410,6 +433,12 @@
          "imagewidth":1056,
          "margin":0,
          "name":"bunker1And2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Labitat"
+                }],
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
@@ -423,6 +452,12 @@
          "imagewidth":1056,
          "margin":0,
          "name":"bunker3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Labitat"
+                }],
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
@@ -436,6 +471,12 @@
          "imagewidth":1056,
          "margin":0,
          "name":"space",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Labitat"
+                }],
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
@@ -443,6 +484,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":25
 }
